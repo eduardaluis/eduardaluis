@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @eduardaluis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-eduardaluis/eduardaluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 ola,meu eduardaluis
+- 👍 Meu email de conta é antonio.luis@escola.pr.gov.b
+- 👀 Estou interesado em aprender
+- 🌱 Estou aprendo a mexer ainda
