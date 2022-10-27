@@ -1,6 +1,4 @@
-
-
-- 👋 ola,meu eduardaluis
-- 👍 Meu email de conta é antonio.luis@escola.pr.gov.b
+- 👋 ola,meu nome é **eduardaluis**
+- 👍 Meu email de conta é [email](antonio.luis@escola.pr.gov.br)
 - 👀 Estou interesado em aprender
-- 🌱 Estou aprendo a mexer ainda
+- 🌱 Estou aprendendo a programar recentemente
